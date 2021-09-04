@@ -1,2 +1,2 @@
-# NLP_pulled
-NLP course IDC 2021
+# NLP
+Natural Language Processing IDC course 2021
